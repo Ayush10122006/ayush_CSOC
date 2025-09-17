@@ -5,9 +5,9 @@
 
 Hello 👐 this is Ayush Kumar.
 ***************************************************
-I am in second sem from CSE branch.
+I am in third sem from CSE branch.
 ****************************************************
-Studing at Sir MVIT.
+Studing at Sir MVIT college.
 *****************************************************
 My current Tech stack is [C++,C,Htm,python,pandas,numpy,opencv]
 My Linkedin profile link is{http://linkedin.com/in/ayush-kumar-a28958230}
